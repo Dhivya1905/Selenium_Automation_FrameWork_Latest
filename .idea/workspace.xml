@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7b307c8-51e4-4329-b293-28c810c89356" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.Readme_images/f334db79.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrangeHRM.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/testingacademy/base/CommonToALLPages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/testingacademy/driver/DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/testingacademy/pages/PageFactory/LoginPage_PF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/testingacademy/pages/PageObjectModel/OrangeHR/Dashboard_page_POM_OHR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/testingacademy/pages/PageObjectModel/OrangeHR/Login_PagePOM_OHR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/testingacademy/pages/PageObjectModel/VWO/DashboardPage_POM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/testingacademy/pages/PageObjectModel/VWO/LoginPage_POM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/testingacademy/utils/ExcelReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/testingacademy/utils/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/Listerner/RetryAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/Listerner/RetryListerner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/TestSelenium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/base/CommonToALLTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/tests/PageFactoryTestCase/TestVWOLogin_PF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/tests/TestOHR_LoginPOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testingacademy/tests/TestVWO_Login_POM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/data.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng_retry.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2sbs2woG9zroBGUpuWiOapOG5xT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/Users/dhivy/IdeaProjects/Selenium_Automation_FrameWork_Latest/OrangeHRM.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/dhivy/IdeaProjects/Selenium_Automation_FrameWork_Latest/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/dhivy/IdeaProjects/Selenium_Automation_FrameWork_Latest/testng_retry.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestOHR_LoginPOM.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestSelenium.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestSelenium.test_vwo_Logi.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestVWOLogin_PF.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestVWOLogin_PF.testLoginNegative.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestVWO_Login_POM.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dhivy/IdeaProjects/Selenium_Automation_FrameWork_Latest&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dhivy\IdeaProjects\Selenium_Automation_FrameWork_Latest" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="C:/Users/dhivy/IdeaProjects/Selenium_Automation_FrameWork_Latest/testng_retry.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Automation_FrameWork_Latest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_retry.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSelenium.test_vwo_Logi" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Automation_FrameWork_Latest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testingacademy.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testingacademy.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.testingacademy.tests.TestSelenium" />
+      <option name="METHOD_NAME" value="test_vwo_Logi" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestVWOLogin_PF.testLoginNegative" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Automation_FrameWork_Latest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testingacademy.tests.PageFactoryTestCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testingacademy.tests.PageFactoryTestCase" />
+      <option name="MAIN_CLASS_NAME" value="com.testingacademy.tests.PageFactoryTestCase.TestVWOLogin_PF" />
+      <option name="METHOD_NAME" value="testLoginNegative" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/dhivy/IdeaProjects/Selenium_Automation_FrameWork_Latest/testng_retry.xml" />
+        <item itemvalue="TestNG.TestVWOLogin_PF.testLoginNegative" />
+        <item itemvalue="TestNG.TestSelenium.test_vwo_Logi" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7b307c8-51e4-4329-b293-28c810c89356" name="Changes" comment="" />
+      <created>1738735416407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738735416407</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/testingacademy/TestSelenium.java</url>
+          <line>10</line>
+          <properties class="com.testingacademy.TestSelenium" method="test_vwo_Logi">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/testingacademy/tests/TestOHR_LoginPOM.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/testingacademy/tests/TestOHR_LoginPOM.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/testingacademy/tests/TestOHR_LoginPOM.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/testingacademy/tests/TestOHR_LoginPOM.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
