@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="Selenium_Automation_FrameWork_Latest">
+        <classes>
+            <class name="com.testingacademy.tests.TestVWO_Login_POM">
+            </class>
+        </classes>
+    </test>
+</suite>
